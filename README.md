@@ -1,1 +1,3 @@
-I myself finding the solutions to the coding problems in the HackerRack site
+Solving the technical Problems floating in the HackerRack website.
+
+HackerRank Profile - https://www.hackerrank.com/shefaoudeen_z
