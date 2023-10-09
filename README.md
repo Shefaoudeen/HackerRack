@@ -1,4 +1,4 @@
-#HackerRank
+# HackerRank
 
 Solving the technical Problems floating in the HackerRack website.
 
